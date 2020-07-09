@@ -1,8 +1,6 @@
-"# Sistem-CAT-Computer-Assisted-Test-" 
-
 ================================================================================
 Petunjuk Penggunaan Program
-================================================================================
+
 
 1. Salin folder 'Aplikasi_CBT' ke dalam folder 'htdocs'
 2. Buka XAMPP Control Panel
@@ -16,6 +14,6 @@ Petunjuk Penggunaan Program
 
 ================================================================================
 Akun yang dapat digunakan untuk login
-================================================================================
+
 peserta:
 login sesuai dengan nomor peserta dan tanggal lahir yang ada di database 
