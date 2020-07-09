@@ -1,4 +1,4 @@
-================================================================================
+
 Petunjuk Penggunaan Program
 
 
@@ -12,7 +12,7 @@ Petunjuk Penggunaan Program
 8. Untuk menjalankan program, buka 'localhost/Aplikasi_CBT' di web browser
 9. login untuk menggunakan program
 
-================================================================================
+
 Akun yang dapat digunakan untuk login
 
 peserta:
